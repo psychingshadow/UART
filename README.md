@@ -4,4 +4,5 @@ Start bit is a 0, and stop bit is a 1. Thus, only inputs of the form 1______0 wi
 
 
 
-![Uploading UART_wave_form.png…]()
+
+![UART_wave_form](https://github.com/psychingshadow/UART/assets/121498733/71e28824-1a55-4927-8a12-d51986720ef4)
