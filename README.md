@@ -6,3 +6,4 @@ Start bit is a 0, and stop bit is a 1. Thus, only inputs of the form 1______0 wi
 
 
 ![UART_wave_form](https://github.com/psychingshadow/UART/assets/121498733/71e28824-1a55-4927-8a12-d51986720ef4)
+![Screenshot (85)](https://github.com/psychingshadow/UART/assets/121498733/6d297246-4e57-482f-be35-5c804291dd12)
